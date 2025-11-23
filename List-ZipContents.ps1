@@ -4,6 +4,11 @@
 
 .EXAMPLE
     .\List-ZipContents.ps1 -ZipPath .\Your.zip
+    
+.NOTES
+    Author: Kingston Damour
+    Date: 2025-11-23
+    Version: 1.0
 #>
 
 [CmdletBinding()]
